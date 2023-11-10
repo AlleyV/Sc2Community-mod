@@ -18,7 +18,7 @@ Mod for the Starcraft 2 game , created by the community.
         Load the existing map to which you want to add the mod, or create a new map.
 
     Data Explorer:
-        Open the "Data Explorer" in the Map Editor.
+        Open the "File option" in the Map Editor.
 
     Find Dependencies:
         Navigate to the area of the Data Explorer where you can manage the map's dependencies.
