@@ -1,6 +1,8 @@
 # Sc2Community-mod
 Mod for the Starcraft 2 game , created by the community.
 
+# How to install.
+
     Find the "Mods" Folder:
         Open the installation directory of StarCraft 2 on your computer.
         Look for the folder named "Mods." This folder is typically located in the same location as the game's executable.
