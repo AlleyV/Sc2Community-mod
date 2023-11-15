@@ -30,3 +30,7 @@ Mod for the Starcraft 2 game , created by the community.
     Save and Test:
         Save your map after adding the dependencies.
         Test your map to ensure that the mod is loaded correctly.
+
+    Credits :
+        - Solstice245 
+        - AlleyV
